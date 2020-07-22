@@ -1,0 +1,1 @@
+Selamat datang di halaman user, silahkan <a href="../inc/logout.php"> Logout</a>
